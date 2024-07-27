@@ -1,7 +1,7 @@
 # Hackintosh-Fujitsu-ESPRIMO-Q556
 EFI Files for  Fujitsu ESPRIMO Q556
 
-![alt text]([http://url/to/img.png](blob:[https://imgur.com/8ea8541c-e3bf-46e8-a783-e96c86c49fbe](https://i.imgur.com/ftly56q.jpeg)))
+![alt text]([[http://url/to/img.png]
 
 Update to latest BIOS,
 stop secure boot
