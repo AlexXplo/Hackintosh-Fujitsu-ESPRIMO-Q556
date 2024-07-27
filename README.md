@@ -4,8 +4,12 @@ EFI Files for  Fujitsu ESPRIMO Q556
 ![Alt text](https://i.imgur.com/ftly56q.jpeg)
 
 Update to latest BIOS,
-stop secure boot
+
+stop secure boot,
+
 max vram for igpu
+
+Work like a charm with Ventura/Sonoma
 
 
 Specs:
