@@ -17,4 +17,4 @@ Specs:
 - Ethernet LAN 10,100,1000 Mbit/s
 
 Wifi & BT also is working:
-![alt text]([http://url/to/img.png](https://i.imgur.com/XMEDO5c.png))
+![Alt text](https://i.imgur.com/ftly56q.jpeg)
